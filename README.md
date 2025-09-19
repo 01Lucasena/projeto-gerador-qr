@@ -20,7 +20,7 @@ Você pode inserir qualquer texto, link ou informação e o sistema gera automat
 - **HTML5** → Estrutura da página.  
 - **CSS3** → Estilização e responsividade.  
 - **JavaScript (Vanilla JS)** → Lógica para geração do QR Code.  
-- Biblioteca: [QRCode.js](https://github.com/davidshimjs/qrcodejs) *(caso esteja usando uma)*.
+- Biblioteca: [QRCode.js](https://github.com/davidshimjs/qrcodejs).
 
 ---
 
